@@ -1,0 +1,35 @@
+2024-12-06 11:23:32 INFO  Logging:21 - Login Test starting
+2024-12-06 11:23:33 INFO  Logging:44 - Login test finished
+2024-12-06 11:30:09 INFO  Logging:21 - Login Test starting
+2024-12-06 11:30:10 INFO  Logging:44 - Login test finished
+2024-12-06 11:34:57 INFO  AccountRegistration:18 - Starting the test case
+2024-12-06 11:34:57 INFO  AccountRegistration:22 - Clicked on my account link
+2024-12-06 11:34:58 INFO  AccountRegistration:28 - providing customer details
+2024-12-06 11:34:59 INFO  AccountRegistration:41 - validating expected message
+2024-12-06 11:34:59 INFO  AccountRegistration:62 - Account registration is successfully done
+2024-12-06 11:39:31 INFO  Logging:21 - Login Test starting
+2024-12-06 11:39:32 INFO  Logging:44 - Login test finished
+2024-12-06 11:44:36 INFO  AccountRegistration:18 - Starting the test case
+2024-12-06 11:44:36 INFO  AccountRegistration:22 - Clicked on my account link
+2024-12-06 11:44:37 INFO  AccountRegistration:28 - providing customer details
+2024-12-06 11:44:38 INFO  AccountRegistration:41 - validating expected message
+2024-12-06 11:44:38 INFO  AccountRegistration:62 - Account registration is successfully done
+2024-12-06 14:20:12 INFO  AccountRegistration:18 - Starting the test case
+2024-12-06 14:20:12 INFO  AccountRegistration:22 - Clicked on my account link
+2024-12-06 14:20:13 INFO  AccountRegistration:28 - providing customer details
+2024-12-06 14:20:14 INFO  AccountRegistration:41 - validating expected message
+2024-12-06 14:20:14 INFO  AccountRegistration:62 - Account registration is successfully done
+2024-12-06 14:27:11 INFO  Logging:23 - Login Test starting
+2024-12-06 14:27:13 INFO  Logging:46 - Login test finished
+2024-12-06 14:27:19 INFO  AccountRegistration:18 - Starting the test case
+2024-12-06 14:27:19 INFO  AccountRegistration:22 - Clicked on my account link
+2024-12-06 14:27:20 INFO  AccountRegistration:28 - providing customer details
+2024-12-06 14:27:21 INFO  AccountRegistration:41 - validating expected message
+2024-12-06 14:27:21 INFO  AccountRegistration:62 - Account registration is successfully done
+2024-12-06 14:27:59 INFO  Logging:23 - Login Test starting
+2024-12-06 14:28:00 INFO  Logging:46 - Login test finished
+2024-12-06 14:28:07 INFO  AccountRegistration:18 - Starting the test case
+2024-12-06 14:28:07 INFO  AccountRegistration:22 - Clicked on my account link
+2024-12-06 14:28:08 INFO  AccountRegistration:28 - providing customer details
+2024-12-06 14:28:09 INFO  AccountRegistration:41 - validating expected message
+2024-12-06 14:28:09 INFO  AccountRegistration:62 - Account registration is successfully done
